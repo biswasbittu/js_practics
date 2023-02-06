@@ -8,4 +8,4 @@
  var isHeGood=false;
  var himAge=17;
 
- console.log('Student Name:',himAge,'Is he Good Boy:')
+ console.log('Student Name:',himAge,'Is he Good Boy:',isHeGood,'Age:',himAge);
